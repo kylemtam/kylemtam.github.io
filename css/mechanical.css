@@ -38,32 +38,10 @@
 	height: 27rem;
 	margin-bottom: 0rem;
 }
-.flashforest {
-	margin-top: 3rem;
-}
 
-.hatch {
-	margin-top: 7rem;
-}
-
-#flash1 {
-	background: url('../media/mechanical/Flash Forest/flash1.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-	background-position: center;
-	width: 100%;
-}
-
-#flash2 {
-	background: url('../media/mechanical/Flash Forest/flash2.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-	background-position: center;
-	width: 100%;
-}
 
 #hatch1 {
-	background: url('../media/mechanical/Hatch/furnace.jpg');
+	background: url('../media/mechanical/Hatch/impactor.png');
     background-size: contain;
     background-repeat: no-repeat;
 	background-position: center;
@@ -96,7 +74,7 @@
 
 
 #payload3 {
-	background: url('../media/mechanical/Waterloo Rocketry/detectors.png');
+	background: url('../media/mechanical/Waterloo Rocketry/payload_tablet_attachment.JPG');
     background-size: contain;
     background-repeat: no-repeat;
 	background-position: center;
